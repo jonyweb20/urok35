@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b1c0c7f-d9c7-4b25-9e1e-d55623d4b02f" name="Default Changelist" comment="" />
+    <list default="true" id="7b1c0c7f-d9c7-4b25-9e1e-d55623d4b02f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cookie/enter_city.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/jQuery_cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/modal_cookie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookie/cookie.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookie/cookie.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +17,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uORWElrAiUNkylncFi1HMp6fXp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +38,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../urok37" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,11 +50,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624534678945</updated>
-      <workItem from="1624534681316" duration="10090000" />
+      <workItem from="1624534681316" duration="10193000" />
+      <workItem from="1624966683608" duration="8048000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1187" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624967639605">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1187" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1624967639605" />
+    <state x="1155" y="265" key="FileChooserDialogImpl" timestamp="1624974149648">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1155" y="265" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1624974149648" />
   </component>
 </project>

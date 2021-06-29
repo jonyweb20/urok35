@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cookie</title>
+    <script src="../jquery-3.6.0.min.js"></script>
+    <script src="jQuery_cookie.js"></script>
+</head>
+<body>
+<h1>Ваш город- </h1>
+<script>
+    document.querySelector('h1').innerHTML += $.cookie('city')
+</script>
+</body>
+</html>

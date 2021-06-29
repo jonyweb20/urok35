@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../jquery-3.6.0.min.js"></script>
+    <script src="jQuery_cookie.js"></script>
+</head>
+<body>
+<input type="text" placeholder="Введите ваш город">
+<a href="cookie.html"></a> //ссылка на вторую страницу
+<script>
+    $(function () {
+let $input = $('input[type="text"]');
+        $input.on('blur', function () {
+$.cookie('city',$input.val())//создали  куки
+        })
+    })
+
+</script>
+</body>
+</html>
